@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image2PGM Converter", "Image2PGM Converter\Image2PGM Converter.csproj", "{4FF969DC-150D-48C1-BEED-8A20FAE1B20B}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Image2PGM", "Image2PGM\Image2PGM.vdproj", "{F78D5B61-6EC5-464D-9165-8DD3BC620C29}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Image2PGM", "Image2PGM\Image2PGM.vdproj", "{EF0772A3-ACFC-41BA-A4F6-F0ACE3B45855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{4FF969DC-150D-48C1-BEED-8A20FAE1B20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF969DC-150D-48C1-BEED-8A20FAE1B20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF969DC-150D-48C1-BEED-8A20FAE1B20B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F78D5B61-6EC5-464D-9165-8DD3BC620C29}.Debug|Any CPU.ActiveCfg = Debug
-		{F78D5B61-6EC5-464D-9165-8DD3BC620C29}.Release|Any CPU.ActiveCfg = Release
+		{EF0772A3-ACFC-41BA-A4F6-F0ACE3B45855}.Debug|Any CPU.ActiveCfg = Debug
+		{EF0772A3-ACFC-41BA-A4F6-F0ACE3B45855}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
