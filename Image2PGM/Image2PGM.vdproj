@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_132AAD4F2DC74905A29ABA51572814BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_2DD537B368F643ECB38EE39AC43089CF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -43,6 +49,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -59,6 +73,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -88,6 +110,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_132AAD4F2DC74905A29ABA51572814BF"
+            {
+            "SourcePath" = "8:..\\Image2PGM Converter\\Resources\\convert.ico"
+            "TargetName" = "8:convert.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_200D46FB51E6476C8A3FE7B7226EFE16"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2DD537B368F643ECB38EE39AC43089CF"
             {
             "AssemblyRegister" = "3:1"
@@ -307,7 +349,7 @@
             "Target" = "8:_2DD537B368F643ECB38EE39AC43089CF"
             "Folder" = "8:_F5CE0E6F0F4147FBBC7C03867C99D332"
             "WorkingFolder" = "8:_200D46FB51E6476C8A3FE7B7226EFE16"
-            "Icon" = "8:"
+            "Icon" = "8:_132AAD4F2DC74905A29ABA51572814BF"
             "Feature" = "8:"
             }
         }
