@@ -97,6 +97,13 @@ namespace Image2PGM_Converter
             }
         }
 
+        private void viewBtn_Click(object sender, RoutedEventArgs e)
+        {
+            PGM_Viewer win = new PGM_Viewer();
+            win.Owner = this;
+            win.ShowDialog();
+        }
+
         private void setImageView(Bitmap bit)
         {
             BitmapImage image = new BitmapImage();
